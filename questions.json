@@ -1,0 +1,242 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Hyper Transfer Markup Language",
+            "Hyperlink and Text Markup Language",
+            "High Level Markup Language"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What is the CSS Box Model used for?",
+        "options": [
+            "Styling text",
+            "Creating layouts",
+            "Handling server requests",
+            "Defining variables"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Which programming language is known for its server-side scripting?",
+        "options": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "C#"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "What is the purpose of the 'use strict' statement in JavaScript?",
+        "options": [
+            "To enable strict mode",
+            "To disable strict mode",
+            "To comment out code",
+            "To define a variable"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Hyper Transfer Markup Language",
+            "Hyperlink and Text Markup Language",
+            "High Level Markup Language"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What is the CSS Box Model used for?",
+        "options": [
+            "Styling text",
+            "Creating layouts",
+            "Handling server requests",
+            "Defining variables"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Which programming language is known for its server-side scripting?",
+        "options": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "C#"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "What is the purpose of the 'use strict' statement in JavaScript?",
+        "options": [
+            "To enable strict mode",
+            "To disable strict mode",
+            "To comment out code",
+            "To define a variable"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": [
+            "Counter Style Sheets",
+            "Colorful Style Sheets",
+            "Creative Style Sheets",
+            "Cascading Style Sheets"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "In programming, what does API stand for?",
+        "options": [
+            "Application Programming Interface",
+            "Advanced Programming Interface",
+            "Automated Programming Interface",
+            "Application Processing Interface"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Which method is used to pause the execution of a function in JavaScript?",
+        "options": [
+            "sleep()",
+            "wait()",
+            "pause()",
+            "setTimeout()"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "What is the primary purpose of a database?",
+        "options": [
+            "Store and retrieve data",
+            "Play video games",
+            "Send emails",
+            "Create graphics"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "What does the acronym SQL stand for?",
+        "options": [
+            "Structured Question Language",
+            "Sequential Query Language",
+            "Standard Query Language",
+            "System Query Language"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Which of the following is a front-end programming language?",
+        "options": [
+            "Java",
+            "Python",
+            "JavaScript",
+            "C#"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "What is the purpose of the 'git clone' command in Git?",
+        "options": [
+            "To create a new branch",
+            "To copy a repository",
+            "To delete a repository",
+            "To merge branches"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What is the primary function of a web server?",
+        "options": [
+            "Store files",
+            "Manage databases",
+            "Serve web pages",
+            "Send emails"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "In object-oriented programming, what is encapsulation?",
+        "options": [
+            "The process of turning data into code",
+            "The bundling of data and the methods that operate on the data",
+            "The creation of new classes",
+            "The process of defining relationships between objects"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What does the acronym URL stand for?",
+        "options": [
+            "Universal Resource Locator",
+            "Uniform Resource Locator",
+            "Universal Reference Locator",
+            "Uniform Reference Locator"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "What is the purpose of the 'else' keyword in programming?",
+        "options": [
+            "To start a loop",
+            "To define a function",
+            "To handle the case when an 'if' condition is false",
+            "To import external libraries"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Which of the following is not a valid data type in JavaScript?",
+        "options": [
+            "string",
+            "boolean",
+            "integer",
+            "object"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "What is the output of the following code: console.log(1 + '1')?",
+        "options": [
+            "11",
+            "2",
+            "11",
+            "Error"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "In HTML, which tag is used to create a hyperlink?",
+        "options": [
+            "<link>",
+            "<href>",
+            "<a>",
+            "<hyperlink>"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "What does the CSS property 'margin: auto;' do?",
+        "options": [
+            "Sets the margin to zero",
+            "Centers the element horizontally",
+            "Aligns the element to the right",
+            "Adds space inside the element"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Which of the following is a JavaScript framework?",
+        "options": [
+            "React",
+            "Bootstrap",
+            "Django",
+            "Flask"
+        ],
+        "correct": 0
+    }
+]
